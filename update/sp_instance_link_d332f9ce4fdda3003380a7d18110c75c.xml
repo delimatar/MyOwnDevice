@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>map-signs</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>You need assistance in moving your devices to another location</short_description>
+        <size>md</size>
+        <sp_column display_value="3">490ed9824fdda3003380a7d18110c718</sp_column>
+        <sp_page display_value="my_own_device_home">5491dd064f9da3003380a7d18110c77c</sp_page>
+        <sp_widget display_value="MyIT Icon Link">10bf34824f19a3003380a7d18110c7b8</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-23 11:21:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d332f9ce4fdda3003380a7d18110c75c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Have you to move to another location?</sys_name>
+        <sys_package display_value="MyOwnDevice" source="x_276349_myowndevi">e22147c94f9d23003380a7d18110c771</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MyOwnDevice">e22147c94f9d23003380a7d18110c771</sys_scope>
+        <sys_update_name>sp_instance_link_d332f9ce4fdda3003380a7d18110c75c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-23 14:43:50</sys_updated_on>
+        <title>Have you to move to another location?</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=d332f9ce4fdda3003380a7d18110c75c"/>
+</record_update>
